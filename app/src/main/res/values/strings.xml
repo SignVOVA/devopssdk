@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Trip Organiser</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_trip">Add New Trip</string>
+    <string name="title_activity_view_on_map">View Trip Map</string>
+    <string name="title_activity_view_trip">View Upcoming Trips</string>
+    <string name="title_activity_view_trip_details">View Trip Details</string>
+    <string name="title_activity_view_on_map_options">View On Map Options</string>
+    <string name="title_activity_add_checklist_to_trip">Add Checklist To Trip</string>
+    <string name="title_activity_add_contacts_to_trip">Add Contacts To Trip</string>
+    <string name="title_activity_add_trip_final_summary">Submit Trip</string>
+    <string name="title_activity_add_events_to_trip">Add Events To Trip</string>
+    <string name="title_activity_add_places_of_interest_to_trip">Add Places OfInterest To Trip</string>
+    <string name="title_activity_edit_default_trip_checklist">Edit Default Checklist</string>
+    <string name="title_activity_past_trips_on_map">Historical Trips On Map</string>
+    <string name="title_activity_view_past_trip_on_maps">Historical Trips On Map</string>
+    <string name="title_activity_view_future_trip_on_map">Future Trips Map</string>
+    <string name="title_activity_edit_trip_vales">Edit Trip Vales</string>
+    <string name="title_activity_edit_trip">Edit Trip Details</string>
+    <string name="title_activity_edit_trip_checklist">Edit Trip Checklist</string>
+    <string name="title_activity_edit_trip_contacts">Edit Trip Contacts</string>
+    <string name="title_activity_edit_trip_events">Edit Trip Events</string>
+    <string name="title_activity_edit_trip_places_of_interest">Edit Trip Places Of Interest</string>
+    <string name="title_activity_edit_trip_summary">Edit Trip Summary</string>
+</resources>
